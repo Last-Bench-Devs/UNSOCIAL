@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/UNSOCIAL/static/css/main.f04346f5.chunk.css",
+    "main.js": "/UNSOCIAL/static/js/main.cbedd159.chunk.js",
+    "main.js.map": "/UNSOCIAL/static/js/main.cbedd159.chunk.js.map",
+    "runtime-main.js": "/UNSOCIAL/static/js/runtime-main.358656ae.js",
+    "runtime-main.js.map": "/UNSOCIAL/static/js/runtime-main.358656ae.js.map",
+    "static/js/2.053b2ae7.chunk.js": "/UNSOCIAL/static/js/2.053b2ae7.chunk.js",
+    "static/js/2.053b2ae7.chunk.js.map": "/UNSOCIAL/static/js/2.053b2ae7.chunk.js.map",
+    "index.html": "/UNSOCIAL/index.html",
+    "static/css/main.f04346f5.chunk.css.map": "/UNSOCIAL/static/css/main.f04346f5.chunk.css.map",
+    "static/js/2.053b2ae7.chunk.js.LICENSE.txt": "/UNSOCIAL/static/js/2.053b2ae7.chunk.js.LICENSE.txt",
+    "static/media/LOGO.5097c643.png": "/UNSOCIAL/static/media/LOGO.5097c643.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.358656ae.js",
+    "static/js/2.053b2ae7.chunk.js",
+    "static/css/main.f04346f5.chunk.css",
+    "static/js/main.cbedd159.chunk.js"
+  ]
+}
